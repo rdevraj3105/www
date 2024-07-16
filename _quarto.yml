@@ -1,0 +1,37 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Rohan Devraj"
+  navbar:
+    background: "#A4925A"
+    logo: "assets/gtlogo2.png"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rohan-devraj-8646b1259/
+        target: _blank
+      - icon: github
+        href: https://github.com/rdevraj3105
+        target: _blank
+      - icon: file-earmark-person
+        href: assets/Rohan_Devraj_Resume_July2024.pdf
+        target: _blank
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+     # - custom.scss
+    css: styles.css
+    toc: true
+
+
+

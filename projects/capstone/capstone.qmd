@@ -1,0 +1,24 @@
+---
+title: "Capstone Project"
+description: "Capstone project on modeling the impact of adult health-related practices on juvenile healthcare outcomes for SURE 2024 at Carnegie Mellon University"
+date: July 2024
+about: 
+  template: solana
+  image: cover.png
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/rdevraj3105/CMU-SURE-2024-Capstone-Project.git
+    - icon: laptop
+      text: Slides
+      href: https://docs.google.com/presentation/d/1meIQ7qSZ-ZnVyl0-utZuEyk0shKKfeJwfoB02Vc1JuM/edit?usp=sharing
+    - icon: file 
+      text: Poster
+      href: https://docs.google.com/presentation/d/1yl44CotpSx_NsQvrxdXoKf7IEwHIv0h6maQ5aVzXxws/edit?usp=sharing
+    - icon: pencil
+      text: Report
+      href: bit.ly/mnbvpoiu
+    
+---
+
+Insert description down here 

@@ -1,0 +1,12 @@
+---
+title: "Vertically Integrated Project - Autonomous and Connected Transportation Laboratory"
+description: "Modeling Travel-Related Sustainability Objectives"
+date: May 2024
+about: 
+  template: solana
+  image: cover.png
+  links: 
+    - icon: laptop
+      text: Slides
+      href: assets/VIP Spring 2024 - Final Presentation.pdf
+---

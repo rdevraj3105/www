@@ -1,0 +1,8 @@
+---
+title: "Projects"
+listing: 
+  contents: projects
+  type: default
+---
+
+Below, you can find my projects.

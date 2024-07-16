@@ -1,0 +1,23 @@
+---
+title: "Rohan Devraj"
+about: 
+  template: solana
+  image-shape: round
+  image: assets/headshot.jpeg
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:rdevraj3@gatech.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/rdevraj3105
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rohan-devraj-8646b1259/
+      target: _blank
+    
+---
+
+I am a rising 2nd year undergraduate student at the Georgia Institute of Technology 
+majoring in Industrial & Systems Engineering and pursuing a minor in computer science. I'm interested in healthcare analytics, space systems, and optimizing transportation!
