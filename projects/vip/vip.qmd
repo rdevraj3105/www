@@ -8,5 +8,6 @@ about:
   links: 
     - icon: laptop
       text: Slides
-      href: assets/VIP_Spring 2024_Final Presentation.pdf
+      href: www/assets/VIP_Spring 2024_Final Presentation.pdf
 ---
+
