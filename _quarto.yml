@@ -6,8 +6,8 @@ project:
 website:
   title: "Rohan Devraj"
   navbar:
-    background: "#A4925A"
-    logo: "assets/gtlogo2.png"
+    background: "#b4a168"
+    logo: "assets/gtlogo3.png"
     foreground: "#ffffff"
     left:
       - href: index.qmd
