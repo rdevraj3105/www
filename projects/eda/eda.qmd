@@ -15,3 +15,4 @@ about:
    
 ---
 
+This was the first project of the Carnegie Mellon Bridges to Healthcare Technology Program with UnitedHealth Group. For this project, we created visualizations of maternal healthcare disparities across the U.S. in R and used clustering to reveal groups of distinct characteristics in the dataset, highlighting variations in healthcare access.

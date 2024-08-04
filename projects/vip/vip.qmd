@@ -5,10 +5,11 @@ date: May 2024
 resources: "."
 about: 
   template: solana
-  image: cover.png
+  image: cover.jpeg
   links: 
     - icon: laptop
       text: Slides
-      href: www/assets/VIP_Spring 2024_Final Presentation.pdf
+      href: assets/VIP_Spring 2024_Final Presentation.pdf
 ---
 
+As part of the sustainable travel-related objectives project team, we focused on the modeling and analysis of transportation networks to achieve sustainable travel goals (i.e., mobility, access, safety, and equity). We used optimization tools with Gurobi and Python to understand how to better meet and exceed community-level sustainable travel goals. 

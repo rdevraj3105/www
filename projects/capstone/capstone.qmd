@@ -1,6 +1,9 @@
 ---
 title: "Capstone Project"
-description: "Capstone project on modeling the impact of adult health-related practices on juvenile healthcare outcomes for SURE 2024 at Carnegie Mellon University"
+description: |
+  Capstone project on modeling the impact of adult health-related practices on juvenile healthcare outcomes for SURE 2024 at the Carnegie Mellon University Department of Statistics and Data Science.
+
+  For more information, check out [stat.cmu.edu/cmsac/sure/2024/showcase/](https://www.stat.cmu.edu/cmsac/sure/2024/showcase/)
 date: July 2024
 about: 
   template: solana
@@ -11,14 +14,14 @@ about:
       href: https://github.com/rdevraj3105/CMU-SURE-2024-Capstone-Project.git
     - icon: laptop
       text: Slides
-      href: https://docs.google.com/presentation/d/1meIQ7qSZ-ZnVyl0-utZuEyk0shKKfeJwfoB02Vc1JuM/edit?usp=sharing
+      href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/juvenile_health/slides.pdf
     - icon: file 
       text: Poster
-      href: https://docs.google.com/presentation/d/1yl44CotpSx_NsQvrxdXoKf7IEwHIv0h6maQ5aVzXxws/edit?usp=sharing
+      href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/juvenile_health/poster.pdf
     - icon: pencil
       text: Report
-      href: bit.ly/mnbvpoiu
+      href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/juvenile_health/report.html
     
 ---
 
-Insert description down here 
+This capstone project was the culmination of the CMU SURE 2024 Bridges to Healthcare Technology Program in partnership with UnitedHealth Group. Our project was focused on the impact of adult health-related practices on juvenile health outcomes. We primarly analyzed the impact of adult health behaviors like drinking, smoking, and insufficient sleep on the child mortality rate and low birthweight percentage on a county level. Our modeling consisted of regularization techniques (lasso and ridge regression) and linear regression for predicting low birthweight as well as a decision tree to predict outcomes of child mortality.

@@ -5,10 +5,10 @@ project:
 
 website:
   title: "Rohan Devraj"
-  navbar:
-    background: "#b4a168"
-    logo: "assets/gtlogo3.png"
-    foreground: "#ffffff"
+  navbar: 
+    background: light
+    logo: "assets/gtlogo5.png"
+    foreground: "black"
     left:
       - href: index.qmd
         text: Home
@@ -27,7 +27,7 @@ website:
 format:
   html:
     theme: 
-      light: flatly
+      light: pulse
       dark: darkly
      # - custom.scss
     css: styles.css
