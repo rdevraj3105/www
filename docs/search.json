@@ -18,7 +18,7 @@
     "href": "projects/vip/vip.html",
     "title": "Vertically Integrated Project - Autonomous and Connected Transportation Laboratory",
     "section": "",
-    "text": "As part of the sustainable travel-related objectives project team, we focused on the modeling and analysis of transportation networks to achieve sustainable travel goals (i.e., mobility, access, safety, and equity). We used optimization tools with Gurobi and Python to understand how to better meet and exceed community-level sustainable travel goals."
+    "text": "As part of the sustainable travel-related objectives project team, we focused on the modeling and analysis of transportation networks to achieve sustainable travel goals (i.e., mobility, access, safety, and equity). We used mathematical modeling in Python and optimization tools like Gurobi to understand how to better meet and exceed community-level sustainable travel goals."
   },
   {
     "objectID": "projects/eda/eda.html",
