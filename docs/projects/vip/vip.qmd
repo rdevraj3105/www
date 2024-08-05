@@ -9,7 +9,7 @@ about:
   links: 
     - icon: laptop
       text: Slides
-      href: assets/VIP_Spring_2024_Final Presentation.pdf
+      href: assets/VIP_Spring_2024_Final_Presentation.pdf
 ---
 
 As part of the sustainable travel-related objectives project team, we focused on the modeling and analysis of transportation networks to achieve sustainable travel goals (i.e., mobility, access, safety, and equity). We used mathematical modeling in Python and optimization tools like Gurobi to understand how to better meet and exceed community-level sustainable travel goals. 
