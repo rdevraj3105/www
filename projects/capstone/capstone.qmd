@@ -1,5 +1,5 @@
 ---
-title: "Capstone Project"
+title: "Capstone Project CMU-UHG"
 description: |
   Capstone project on modeling the impact of adult health-related practices on juvenile healthcare outcomes for SURE 2024 at the Carnegie Mellon University Department of Statistics and Data Science.
 

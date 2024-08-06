@@ -1,8 +1,9 @@
 ---
 title: "Rohan Devraj"
 about: 
-  template: jolla
+  template: trestles
   image-shape: round
+  image-width: 6cm
   image: assets/headshot.jpeg
   links: 
     - icon: envelope
@@ -20,7 +21,7 @@ about:
 
 <style>
 .large-text {
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 </style>
 

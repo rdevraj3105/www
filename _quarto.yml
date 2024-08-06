@@ -8,10 +8,10 @@ website:
   navbar: 
     background: light
     logo: "assets/gtlogo5.png"
-    foreground: "black"
+    foreground: dark
     left:
       - href: index.qmd
-        text: Home
+        text: about
       - projects.qmd
     right: 
       - icon: linkedin
