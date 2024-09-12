@@ -28,5 +28,5 @@ about:
 <p class="large-text">
 I am a 2nd year undergraduate student at the Georgia Institute of Technology majoring in <a href="https://www.isye.gatech.edu" target="_blank"> Industrial & Systems Engineering</a> and pursuing a minor in computer science. 
 
-I'm especially interested in the applications of probability, statistics, optimization, and data science. Outside of academics, I'm involved in undergraduate research with the <a href="https://ssog.ae.gatech.edu" target="_blank"> Space Systems Optimization Group (SSOG) </a> where I focus on involving space logistics modeling, optimization, and Mars rover surface routing. I'm also part of a variety of campus organizations, such as the 180 Degrees Consulting club, the GT Venture Capital Club, and intramural basketball.
+I'm especially interested in the applications of probability, statistics, optimization, and data science. Outside of academics, I'm involved in undergraduate research with the <a href="https://ssog.ae.gatech.edu" target="_blank"> Space Systems Optimization Group (SSOG) </a> where I focus on space logistics modeling, optimization, and Mars rover surface routing. I'm also part of a variety of campus organizations, such as the 180 Degrees Consulting club, the GT Venture Capital Club, and intramural basketball.
 </p>
