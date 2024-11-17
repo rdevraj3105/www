@@ -1,13 +1,13 @@
 ---
-title: "Rohan Devraj"
+title: "Hi, I'm Rohan Devraj"
 about: 
-  template: trestles
-  image-shape: round
-  image-width: 6cm
+  template: solana
   image: assets/Headshot.png
+  image-shape: rounded
+  image-width: 220px
   links: 
     - icon: envelope
-      text: Email
+      text: rdevraj3@gatech.edu
       href: "mailto:rdevraj3@gatech.edu"
     - icon: github
       text: GitHub
@@ -17,16 +17,47 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/rohan-devraj-8646b1259/
       target: _blank
+    - icon: file-earmark-person
+      text: Resume
+      href: assets/Rohan_Devraj_Resume-11:24.pdf
+      target: _blank
 ---
 
 <style>
+/* Force image resizing and rounding */
+.about .broadside-image img {
+  border-radius: 50%; /* Ensures round shape */
+  width: 80px; /* Explicitly set smaller size */
+  height: 80px; /* Maintain proportion */
+  object-fit: cover; /* Prevent distortion */
+  display: block; /* Ensures proper layout in all browsers */
+  margin: 0 auto; /* Centers image */
+}
+
+/* Style for larger paragraph text */
 .large-text {
   font-size: 1.1em;
+  line-height: 1.6em; /* Increases readability */
 }
+
+/* Adds spacing between list items */
+.large-text ul {
+  padding-left: 10px; /* Indents bullets slightly */
+}
+
+
 </style>
 
 <p class="large-text">
-I am a 2nd year undergraduate student at the Georgia Institute of Technology majoring in <a href="https://www.isye.gatech.edu" target="_blank"> Industrial & Systems Engineering</a> and pursuing a minor in computer science. 
+I am a 2nd year undergraduate student at the Georgia Institute of Technology majoring in <a href="https://www.isye.gatech.edu" target="_blank">Industrial & Systems Engineering</a> with a concentration in operations research and a minor in computer science. 
 
-I'm especially interested in the applications of probability, statistics, optimization, and data science. Outside of academics, I'm involved in undergraduate research with the <a href="https://ssog.ae.gatech.edu" target="_blank"> Space Systems Optimization Group (SSOG) </a> where I focus on space logistics modeling, optimization, and Mars rover surface routing. I'm also part of a variety of campus organizations, such as the 180 Degrees Consulting club, the GT Venture Capital Club, and intramural basketball.
-</p>
+- **Interests**: Applications of probability, data science, and optimization to transportation, space, healthcare, and finance.
+  
+- **Research**: Undergraduate researcher in the <a href="https://ssog.ae.gatech.edu" target="_blank">Space Systems Optimization Group (SSOG)</a>
+  
+- **Campus Organizations**: 
+  - <a href="https://gtangelnetwork.com/about" target="_blank">Georgia Tech Angel         Network</a>
+  - 180 Degrees Consulting
+  - GT Venture Capital Club
+  - GT Aarohi Indian Classical Arts
+
