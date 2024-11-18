@@ -1,6 +1,5 @@
 ---
 title: "Hi, I'm Rohan Devraj"
-resources: assets
 about: 
   template: solana
   image: assets/Headshot.png
@@ -20,10 +19,9 @@ about:
       target: _blank
     - icon: file-earmark-person
       text: Resume
-      href: /assets/Rohan_Devraj_Resume-11-24.pdf
+      href: https://rdevraj3105.github.io/www/assets/Rohan_Devraj_Resume-11-24.pdf
       target: _blank
 ---
-
 
 
 
