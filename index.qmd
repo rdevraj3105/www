@@ -1,5 +1,6 @@
 ---
 title: "Hi, I'm Rohan Devraj"
+resources: assets
 about: 
   template: solana
   image: assets/Headshot.png
@@ -23,27 +24,7 @@ about:
       target: _blank
 ---
 
-<style>
-/* Force image resizing and rounding */
-.about .broadside-image img {
-  border-radius: 50%; /* Ensures round shape */
-  width: 80px; /* Explicitly set smaller size */
-  height: 80px; /* Maintain proportion */
-  object-fit: cover; /* Prevent distortion */
-  display: block; /* Ensures proper layout in all browsers */
-  margin: 0 auto; /* Centers image */
-}
 
-/* Style for larger paragraph text */
-.large-text {
-  font-size: 1.1em;
-  line-height: 1.6em; /* Increases readability */
-}
-
-/* Adds spacing between list items */
-.large-text ul {
-  padding-left: 10px; /* Indents bullets slightly */
-}
 
 
 </style>
