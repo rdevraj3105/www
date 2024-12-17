@@ -19,7 +19,7 @@ about:
       target: _blank
     - icon: file-earmark-person
       text: Resume
-      href: https://rdevraj3105.github.io/www/assets/Rohan_Devraj_Resume-11-24.pdf
+      href: assets/Rohan_Devraj_Resume.pdf
       target: _blank
 ---
 
