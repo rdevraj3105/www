@@ -2,7 +2,7 @@ project:
   type: website
   resources: assets
   output-dir: docs
-
+#
 website:
   title: "Rohan Devraj"
   navbar: 
@@ -13,7 +13,7 @@ website:
       - href: index.qmd
         text: about
       - projects.qmd
-    right: 
+    right:
       - icon: linkedin
         href: https://www.linkedin.com/in/rohan-devraj-8646b1259/
         target: _blank
@@ -23,8 +23,6 @@ website:
       - icon: file-earmark-person
         href: assets/Rohan_Devraj_Resume.pdf
         target: _blank
-
-
 
 format:
   html:

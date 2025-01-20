@@ -28,15 +28,16 @@ about:
 </style>
 
 <p class="large-text">
-I am a 2nd year undergraduate student at the Georgia Institute of Technology majoring in <a href="https://www.isye.gatech.edu" target="_blank">Industrial & Systems Engineering</a> with a concentration in operations research and a minor in computer science. 
+I am an undergraduate student at the Georgia Institute of Technology majoring in <a href="https://www.isye.gatech.edu" target="_blank">Industrial & Systems Engineering</a> with a concentration in operations research and a minor in computer science. 
 
-- **Interests**: Applications of probability, data science, and optimization to transportation, space, healthcare, and finance.
+- **Interests**: Applications of probability, data science, optimization, and mathematics to real-world problems.
   
-- **Research**: Undergraduate researcher in the <a href="https://ssog.ae.gatech.edu" target="_blank">Space Systems Optimization Group (SSOG)</a>
+- **Research**: Undergraduate researcher in the <a href="https://ssog.ae.gatech.edu" target="_blank">Space Systems Optimization Group (SSOG)</a> focusing on space modeling and Mars rover vehicle routing under uncertainty with reinforcement learning.
   
 - **Campus Organizations**: 
   - <a href="https://gtangelnetwork.com/about" target="_blank">Georgia Tech Angel Network</a>
   - 180 Degrees Consulting
   - GT Venture Capital Club
   - GT Aarohi Indian Classical Arts
+
 

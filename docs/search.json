@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Hi, I’m Rohan Devraj",
     "section": "",
-    "text": "I am a 2nd year undergraduate student at the Georgia Institute of Technology majoring in Industrial & Systems Engineering with a concentration in operations research and a minor in computer science.\n\nInterests: Applications of probability, data science, and optimization to transportation, space, healthcare, and finance.\nResearch: Undergraduate researcher in the Space Systems Optimization Group (SSOG)\nCampus Organizations:\n\nGeorgia Tech Angel Network\n180 Degrees Consulting\nGT Venture Capital Club\nGT Aarohi Indian Classical Arts"
+    "text": "I am an undergraduate student at the Georgia Institute of Technology majoring in Industrial & Systems Engineering with a concentration in operations research and a minor in computer science.\n\nInterests: Applications of probability, data science, optimization, and mathematics to real-world problems.\nResearch: Undergraduate researcher in the Space Systems Optimization Group (SSOG) focusing on space modeling and Mars rover vehicle routing under uncertainty with reinforcement learning.\nCampus Organizations:\n\nGeorgia Tech Angel Network\n180 Degrees Consulting\nGT Venture Capital Club\nGT Aarohi Indian Classical Arts"
   },
   {
     "objectID": "projects/capstone/capstone.html",
     "href": "projects/capstone/capstone.html",
     "title": "Capstone Project CMU-UHG",
     "section": "",
-    "text": "This capstone project was the culmination of the CMU SURE 2024 Bridges to Healthcare Technology Program in partnership with UnitedHealth Group. Our project was focused on the impact of adult health-related practices on juvenile health outcomes. We primarly analyzed the impact of adult health behaviors like drinking, smoking, and insufficient sleep on the child mortality rate and low birthweight percentage on a county level. Our modeling consisted of regularization techniques (lasso and ridge regression) and linear regression for predicting low birthweight as well as a decision tree to predict outcomes of child mortality."
+    "text": "This capstone project was the culmination of the CMU SURE 2024 Bridges to Healthcare Technology Program in partnership with UnitedHealth Group. Our project was focused on the impact of adult health-related practices on juvenile health outcomes. We primarily analyzed the impact of adult health behaviors like drinking, smoking, and insufficient sleep on the child mortality rate and low birthweight percentage on a county level. Our modeling consisted of regularization techniques (lasso and ridge regression) and linear regression for predicting low birthweight as well as a decision tree to predict outcomes of child mortality."
   },
   {
     "objectID": "projects/vip/vip.html",
