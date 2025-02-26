@@ -4,7 +4,7 @@ description: |
   Capstone project on modeling the impact of adult health-related practices on juvenile healthcare outcomes for SURE 2024 at the Carnegie Mellon University Department of Statistics and Data Science.
 
   For more information, check out [stat.cmu.edu/cmsac/sure/2024/showcase/](https://www.stat.cmu.edu/cmsac/sure/2024/showcase/)
-date: July 2024
+#date: July 2024
 about: 
   template: solana
   image: cover.png

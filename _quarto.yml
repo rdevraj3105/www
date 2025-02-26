@@ -21,14 +21,14 @@ website:
         href: https://github.com/rdevraj3105
         target: _blank
       - icon: file-earmark-person
-        href: assets/Rohan_Devraj_Resume_Jan.pdf
+        href: assets/Rohan_Devraj_Resume.pdf
         target: _blank
 
 format:
   html:
     theme: 
-      light: yeti
-      dark: darkly
+      light: pulse
+      dark: [darkly, styles-dark.scss]
      # - custom.scss
     css: styles.css
     toc: true

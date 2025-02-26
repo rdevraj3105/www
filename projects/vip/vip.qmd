@@ -1,7 +1,7 @@
 ---
 title: "Vertically Integrated Project - Autonomous and Connected Transportation Laboratory"
 description: "Modeling Travel-Related Sustainability Objectives"
-date: May 2024
+#date: May 2024
 resources: "."
 about: 
   template: solana

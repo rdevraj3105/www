@@ -1,10 +1,10 @@
 ---
-title: "Hi, I'm Rohan Devraj"
+title: "Rohan Devraj"
 about: 
   template: solana
   image: assets/Headshot.png
   image-shape: rounded
-  image-width: 220px
+  image-width: 170px
   links: 
     - icon: envelope
       text: rdevraj3@gatech.edu
@@ -19,7 +19,7 @@ about:
       target: _blank
     - icon: file-earmark-person
       text: Resume
-      href: https://rdevraj3105.github.io/www/assets/Rohan_Devraj_Resume_Jan.pdf
+      href: https://rdevraj3105.github.io/www/assets/Rohan_Devraj_Resume.pdf
       target: _blank
 ---
 
@@ -28,16 +28,16 @@ about:
 </style>
 
 <p class="large-text">
-I am an undergraduate student at the Georgia Institute of Technology majoring in <a href="https://www.isye.gatech.edu" target="_blank">Industrial & Systems Engineering</a> with a concentration in operations research and a minor in computer science. 
+I am an undergraduate student at the Georgia Institute of Technology majoring in <a href="https://www.isye.gatech.edu" target="_blank">Industrial & Systems Engineering</a> with a concentration in operations research and a minor in computing & artifical intelligence. 
 
-- **Interests**: Applications of probability, data science, optimization, and mathematics to real-world problems.
+- **Interests**: Applications of probability, data science, optimization, and mathematics to real-world problems
   
-- **Research**: Undergraduate researcher in the <a href="https://ssog.ae.gatech.edu" target="_blank">Space Systems Optimization Group (SSOG)</a> focusing on space modeling and Mars rover vehicle routing under uncertainty with reinforcement learning.
-  
-- **Campus Organizations**: 
-  - <a href="https://gtangelnetwork.com/about" target="_blank">Georgia Tech Angel Network</a>
-  - 180 Degrees Consulting
-  - GT Venture Capital Club
-  - GT Aarohi Indian Classical Arts
+- **Research**: Undergraduate researcher in the <a href="https://ssog.ae.gatech.edu" target="_blank">Space Systems Optimization Group (SSOG)</a> advised by Dr. Koki Ho, Masa Isaji, and Nick Gollins, focusing on Mars rover vehicle routing under uncertainty using optimization with adapative planning to improve mission efficiency and decision-making
 
+
+- **Campus Organizations**  
+  - [Georgia Tech Angel Network](https://gtangelnetwork.com/about){target=_blank} (Associate)
+  - 180 Degrees Consulting (Consultant)
+  - GT Venture Capital Club (Research fellow)
+  - GT Aarohi Indian Classical Arts (Performer)
 
